@@ -9,6 +9,7 @@
   background: #F5F5D1;
   align-items: center;
   justify-content: center;
+  display: flex
 }
 .since-when img{
   width: 300px;
@@ -27,10 +28,11 @@
   justify-content: space-around;
 }
 .text h1{
-  font-size: 50px;
-  margin-left: 10px;
+  font-size: 50;
+  margin-bottom: 20;
+  margin-left: 10px
 }
 .text p{
-  font-size: 15px
-  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 15px;
 }
