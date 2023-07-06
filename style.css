@@ -9,10 +9,10 @@
   background: #F5F5D1;
   align-items: center;
   justify-content: center;
-  display: flex
+  display: flex;
 }
 .since-when img{
-  width: 300px;
+  width: 350px;
   height: 500px;
   border-radius: 50px;
 }
