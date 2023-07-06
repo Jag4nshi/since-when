@@ -16,22 +16,21 @@
   align-items: center;
   justify-content: center;
 }
-.img{
-  width: 300px;
+img{
+  width: 400px;
   height: 500px;
   margin: 10px;
   border-radius: 50px;
 }
 .text{
-  align-items: center;
-  justify-content: center;
+  display: block;
 }
-.text h1{
+h1{
   font-size: 60px;
   margin-left: 50px;
   font-family: Times New Roman;
 }
-.text p{
+p{
   font-size: 15px;
   margin-top: 10px;
   margin-right: 15px;
