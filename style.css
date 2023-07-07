@@ -40,10 +40,12 @@
   border-radius: 50px;
   background: transparent;
   color: black;
+  border-style: solid;
   padding: 8px;
   width: 100px;
   margin-right: 10px;
   cursor: pointer;
+  text-align: center;
 }
 .button:hover{
   background: white;
