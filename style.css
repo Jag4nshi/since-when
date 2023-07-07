@@ -45,3 +45,6 @@
   margin-right: 10px;
   cursor: pointer;
 }
+.main button:hover{
+  background: white;
+}
