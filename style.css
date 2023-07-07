@@ -28,11 +28,20 @@
   justify-content: space-around;
 }
 .text h1{
-  font-size: 50;
-  margin-bottom: 20;
-  margin-left: 10px
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-left: 10px;
 }
 .text p{
   font-size: 20px;
   margin-left: 15px;
+}
+.main button{
+  border-radius: 50px;
+  background: transparent;
+  color: black;
+  padding: 8px;
+  width: 100px;
+  margin-right: 10px;
+  cursor: pointer;
 }
