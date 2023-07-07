@@ -50,3 +50,7 @@
 .button:hover{
   background: white;
 }
+.button p a{
+  text-decoration: none;
+  color: #000;
+}
