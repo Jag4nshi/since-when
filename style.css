@@ -36,7 +36,7 @@
   font-size: 20px;
   margin-left: 15px;
 }
-.main button{
+.button{
   border-radius: 50px;
   background: transparent;
   color: black;
@@ -45,6 +45,6 @@
   margin-right: 10px;
   cursor: pointer;
 }
-.main button:hover{
+.button:hover{
   background: white;
 }
